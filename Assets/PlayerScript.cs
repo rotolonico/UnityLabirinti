@@ -1,27 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class NewBehaviourScript : MonoBehaviour {
-	private AudioSource n;
-
-	void OnTriggerEnter2D(Collider2D col) {
-		string colliderTag = col.gameObject.tag;
-		string colliderName = col.gameObject.name;
-
-		if (colliderTag == "wall") {
-
-			n.Play ();
-			print ("Musica!");
-
-
-		} else if (colliderName == "end") {
-			Application.LoadLevel ("1");
-		}
-	}
-
-	// Use this for initialization
+public class PlayerScript : MonoBehaviour {
+		// Use this for initialization
 	void Start () {
-		n = GetComponent<AudioSource>();
 
 	}
 	

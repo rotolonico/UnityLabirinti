@@ -11,20 +11,9 @@ public class WallScript : MonoBehaviour {
 		if (colliderName == "player") {
 			
 
-			ErrorSound.Play ();
+		//	ErrorSound.Play ();
 
-		} else if (colliderName == "end") {
-			Application.LoadLevel ("1");
-		}
 	}
 
-	// Use this for initialization
-	void Start () {
-		ErrorSound = GetComponent<AudioSource>();
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
 	}
 }
