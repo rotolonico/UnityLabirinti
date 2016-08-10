@@ -1,0 +1,14 @@
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/UnityEngine.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/UnityEditor.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/UnityEngine.UI.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/UnityEngine.Analytics.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/Unity.DataContract.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/Mono.Cecil.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/Unity.CecilTools.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/home/domenico/Documents/quello vero 2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
