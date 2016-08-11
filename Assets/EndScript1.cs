@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class EndScript : MonoBehaviour {
+public class EndScript1 : MonoBehaviour {
 	AudioSource WinSound;
 
 	void Start () {
@@ -17,7 +17,7 @@ public class EndScript : MonoBehaviour {
 
 		if (colliderName == "player") {
 			WinSound.Play ();
-			Application.LoadLevel (1);
+			Application.LoadLevel (2);
 		}
 	}
 }
